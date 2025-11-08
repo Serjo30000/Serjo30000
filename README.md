@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sergey Moiseenko 👋
 
-<!--
-**Serjo30000/Serjo30000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[📬 Telegram](https://t.me/SergeyMs1)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend developer, student of Saratov State Technical University
+
+## Stack of tecnhologies
+
+### Languages
+- **Java**
+- **Node.js**
+- **Python**
+- **Dart**
+- **JS**
+
+### Frameworks & Libraries
+- **Spring**, **Spring Boot**, **Hibernate**  
+- **Express**  
+- **Flask**, **FastAPI**
+
+### Databases
+- **PostgreSQL**
+- **MySQL**
+- **Redis**
+- **MongoDB**
+
+### Other Technologies
+- **Kafka**
+- **Docker**
