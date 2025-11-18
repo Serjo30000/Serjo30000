@@ -11,4 +11,4 @@ Backend developer, student of Saratov State Technical University
 - **Languages:** Java, Node.js, Python, Dart, JavaScript  
 - **Frameworks & Libraries:** Spring, Spring Boot, Hibernate, Express, Flask, FastAPI, React  
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB  
-- **Other Technologies:** Kafka, Docker
+- **Other Technologies:** Kafka, Docker, Kubernetes
